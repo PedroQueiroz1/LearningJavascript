@@ -6,6 +6,6 @@ var nome = `Pedro`;
 console.log(nome);
 
 let nome02 = `Pedro`;
-nome02 = `Greg`;
+nome02 = `Greg`; // não funciona com let nome 02 = `Greg`.
 
 console.log(nome02);
