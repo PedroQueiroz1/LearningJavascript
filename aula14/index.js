@@ -18,3 +18,8 @@ console.log(segundaString);
 
 console.log(segundaString.replace(/o/g,"a"));
 console.log(umaString.length);
+
+console.log(umaString.slice(2,5));
+console.log(umaString.split('m',1));
+
+console.log(umaString.toUpperCase()); //toLowerCase
